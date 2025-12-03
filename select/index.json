@@ -1,0 +1,80 @@
+{
+  "version": 1,
+  "base_track": "ペダルハート",
+  "base_artist": "DECO*27",
+  "createdAt": "2025-12-03T17:08:14.275198Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ペダルハート",
+      "artist": "DECO*27 feat. GUMI",
+      "has_synced": true,
+      "path": "select/01_ペダルハート_DECO_27_feat._GUMI.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "ペダルハート",
+      "artist": "DECO*27",
+      "has_synced": false,
+      "path": "select/02_ペダルハート_DECO_27.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "ペダルハート",
+      "artist": "deco27",
+      "has_synced": false,
+      "path": "select/03_ペダルハート_deco27.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "ペダルハート / DECO*27 Feat. GUMI",
+      "artist": "DECO*27",
+      "has_synced": true,
+      "path": "select/04_ペダルハート___DECO_27_Feat._GUMI_DECO_27.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Pedal Heart - ペダルハート",
+      "artist": "DECO*27",
+      "has_synced": false,
+      "path": "select/05_Pedal_Heart_-_ペダルハート_DECO_27.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "DECO*27 - ペダルハート feat. GUMI",
+      "artist": "DECO*27",
+      "has_synced": false,
+      "path": "select/06_DECO_27_-_ペダルハート_feat._GUMI_DECO_27.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "ペダルハート feat. GUMI",
+      "artist": "DECO*27",
+      "has_synced": true,
+      "path": "select/07_ペダルハート_feat._GUMI_DECO_27.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "ペダルハート",
+      "artist": "DECO＊27",
+      "has_synced": false,
+      "path": "select/08_ペダルハート_DECO_27.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ペダルハート",
+      "artist": "DECO*27",
+      "has_synced": false,
+      "path": "select/pl_01_ペダルハート_DECO_27.txt"
+    }
+  ]
+}
